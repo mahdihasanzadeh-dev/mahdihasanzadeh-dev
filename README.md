@@ -1,16 +1,47 @@
-### Hi there 👋
+###  Hey, nice to see you. 👋
 
-<!--
-**mahdihasanzadeh-dev/mahdihasanzadeh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Here are some ideas to get you started:</p>
 
-Here are some ideas to get you started:
+- 💻 I am a self taught Front End Developer.
+- 🌱 I have a bachelor in Software Engineer from the University of Birjand university of technology in Iran
+- 🌟 Main languages: JavaScript
+- 🎵 Love pop and traditional Persian music
+- 💬 Ask me about biking, hiking and Front End development
+- 📫 How to reach me: hasanzadehmahdi66[at]gmail[dot]com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Things I code with</h3>
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Gatsbyjs" src="https://img.shields.io/badge/Gatsby-js-%238a4baf" />
+  <img alt="NEXTjs" src="https://img.shields.io/badge/Next-js-%23eee" />
+</p>
+
+#### Stats
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdihasanzadeh-dev&theme=onedark" alt="MrBlueBird2" />
+</p>
+<br />
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mahdihasanzadeh-dev&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahdihasanzadeh-dev&layout=compact&theme=onedark" />
+</a>
+<br />
+<br />
+
+
+#### Contribution Graph
+[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahdihasanzadeh-dev&theme=react-dark)](https://github.com/mahdihasanzadeh-dev/github-readme-activity-graph)
+<!---
+
