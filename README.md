@@ -24,24 +24,3 @@
   <img alt="NEXTjs" src="https://img.shields.io/badge/Next-js-%23eee" />
 </p>
 
-#### Stats
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdihasanzadeh-dev&theme=onedark" alt="MrBlueBird2" />
-</p>
-<br />
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mahdihasanzadeh-dev&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mahdihasanzadeh-dev&layout=compact&theme=onedark" />
-</a>
-<br />
-<br />
-
-
-#### Contribution Graph
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahdihasanzadeh-dev&theme=react-dark)](https://github.com/mahdihasanzadeh-dev/github-readme-activity-graph)
-<!---
-
