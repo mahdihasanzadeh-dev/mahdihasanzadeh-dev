@@ -7,7 +7,6 @@
 - 🌟 Main languages: JavaScript
 - 🎵 Love pop and traditional Persian music
 - 💬 Ask me about biking, hiking and Front End development
-- 📫 How to reach me: hasanzadehmahdi66[at]gmail[dot]com
 
 <h3>Things I code with</h3>
 <p>
